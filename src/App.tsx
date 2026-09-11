@@ -14,25 +14,25 @@ import {
   X,
 } from 'lucide-react';
 
-import logoImage from '@assets/image_1789028252293.png';
-import editorialImage from '@assets/image_1789028278484.png';
-import garlandImage from '@assets/♡_̆̈_1789028212707.jpg';
-import braceletImage from '@assets/1065664330605275198_1789028212712.jpg';
-import redCowlImage from '@assets/1829656095969140_1789028212716.jpg';
-import flowerWallImage from '@assets/4_Crochet_Daisy_Vining_Plant_Free_Patterns_1789028212722.jpg';
-import tulipKeychainImage from '@assets/Tulip_keychain_🌷_1789028212725.jpg';
-import sunflowerImage from '@assets/_Crochet_Sunflower___1789028212729.jpg';
-import fingerlessWhiteImage from '@assets/24277285507069910_1789028212733.jpg';
-import winterSetImage from '@assets/Özel_istek_üzerine_hazırladığım_atkı_&_eldiven_takımı_🎁_✨️_C__1789028212738.jpg';
-import pouchImage from '@assets/vintage_tales🌸_on_Instagram___Carry_your_essentials_in_this_c_1789028212742.jpg';
-import bowKeychainImage from '@assets/Crochet_bow_keychain_1789028212747.jpg';
-import victorianGlovesImage from '@assets/victorian_crochet_fingerless_gloves_pattern_1789028212752.jpg';
+import logoImage from './assets/image_1789028252293.png';
+import editorialImage from './assets/image_1789028278484.png';
+import garlandImage from './assets/♡_̆̈_1789028212707.jpg';
+import braceletImage from './assets/1065664330605275198_1789028212712.jpg';
+import redCowlImage from './assets/1829656095969140_1789028212716.jpg';
+import flowerWallImage from './assets/4_Crochet_Daisy_Vining_Plant_Free_Patterns_1789028212722.jpg';
+import tulipKeychainImage from './assets/Tulip_keychain_🌷_1789028212725.jpg';
+import sunflowerImage from './assets/_Crochet_Sunflower___1789028212729.jpg';
+import fingerlessWhiteImage from './assets/24277285507069910_1789028212733.jpg';
+import winterSetImage from './assets/Özel_istek_üzerine_hazırladığım_atkı_&_eldiven_takımı_🎁_✨️_C__1789028212738.jpg';
+import pouchImage from './assets/vintage_tales🌸_on_Instagram___Carry_your_essentials_in_this_c_1789028212742.jpg';
+import bowKeychainImage from './assets/Crochet_bow_keychain_1789028212747.jpg';
+import victorianGlovesImage from './assets/victorian_crochet_fingerless_gloves_pattern_1789028212752.jpg';
 import coasterImage from './assets/coasters.jpg';
-import keychainSetImage from '@assets/Instagram_1789028212762.jpg';
-import tulipBouquetImage from '@assets/Pink_Crochet_Tulip_Bouquet_DIY_🌷_Soft_Handmade_Flower_Decor_I_1789028212765.jpg';
-import curtainImage from '@assets/9_Unique_Curtain_Holder_Free_Crochet_Patterns_1789028212643.jpg';
-import sunflowerWallImage from '@assets/Wall_Décor___Mirrors_+_Wall_Hangings_1789028212649.jpg';
-import tableRunnerImage from '@assets/10696117858521556_1789028212702.jpg';
+import keychainSetImage from './assets/Instagram_1789028212762.jpg';
+import tulipBouquetImage from './assets/Pink_Crochet_Tulip_Bouquet_DIY_🌷_Soft_Handmade_Flower_Decor_I_1789028212765.jpg';
+import curtainImage from './assets/9_Unique_Curtain_Holder_Free_Crochet_Patterns_1789028212643.jpg';
+import sunflowerWallImage from './assets/Wall_Décor___Mirrors_+_Wall_Hangings_1789028212649.jpg';
+import tableRunnerImage from './assets/10696117858521556_1789028212702.jpg';
 
 const WHATSAPP_NUMBER = '923222727019';
 const INSTAGRAM_URL = 'https://www.instagram.com/miss_craaafty?stkn=MWZtbWcxamNpbDFidg%3D%3D';
